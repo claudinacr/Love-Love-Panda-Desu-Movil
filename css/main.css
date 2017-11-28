@@ -1,0 +1,70 @@
+body {
+    background-color: #FF7E53;
+}
+
+.header .columna {
+    color: white;
+    background-color: #FF7E53;
+    font-size: 2em;
+}
+
+.image {
+    width: 100%;
+    height: 100%;
+    margin-top: -12%;
+}
+
+.imageTwo {
+    padding-top: 1.5em;
+    background-color: #FF875F;
+    width: 100%;
+    height: 100%;
+}
+
+.imageTree {
+    padding-top: 1.5em;
+    background-color: #FF875F;
+    width: 100%;
+    height: 100%;
+}
+
+footer .columna {
+    padding-bottom: 0.5em;
+    background-color: #FF875F;
+    text-align: right;
+    padding-right: 1em;
+    color: white;
+    font-weight: bold;
+    font-size: 0.7em;
+}
+
+.cuatro-columnas {
+    text-align: center;
+    padding-left: 12%;
+}
+
+.cuatro-columnas img {
+    border: 0.8em white solid;
+}
+
+
+/* .linea1 {
+  width: 100%;
+  margin-top: -15%;
+} */
+
+.flex {
+    display: flex;
+    padding: 4em;
+    color: white;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.fleflex {
+    background-color: #FF7E53;
+}
+
+.first-paragraph {
+    font-size: 0.5em;
+}
